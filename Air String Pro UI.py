@@ -478,7 +478,7 @@ class AirStringPro:
 
 def main():
     root = tk.Tk()
-    icon = tk.PhotoImage(file="F:/VS Code/Projects/Music Midi/newicon1.png")  # Replace with the actual path
+    icon = tk.PhotoImage(file="newicon1.png")
     root.iconphoto(True, icon)
     app = AirStringPro(root)
     root.mainloop()
