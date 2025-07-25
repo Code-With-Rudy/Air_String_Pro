@@ -3,7 +3,7 @@
 _A futuristic gesture-controlled musical instrument built using OpenCV, Pygame MIDI, and Tkinter._
 
 ![Air String Pro Screenshot 1](./airstr.jpg)
-![Air String Pro Screenshot 2](./airstr1.jpg)
+![Air String Pro Screenshot 2](./airsts1.jpg)
 
 ---
 
